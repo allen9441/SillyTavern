@@ -20,6 +20,8 @@ public/stats.json
 temp/
 /uploads/
 *.jsonl
+.codesandbox/
+.devcontainer/
 /config.conf
 /config.yaml
 /config.conf.bak
